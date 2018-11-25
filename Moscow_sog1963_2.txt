@@ -30,7 +30,7 @@
 \ELANBegin 51.973
 \ELANEnd 53.318
 \ELANParticipant -Speech
-\sog Я не могу' про'бовать и.
+\sog Я не могу' про'бовать и
 
 \block 005
 \default 
